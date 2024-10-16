@@ -1,5 +1,6 @@
 window.addEventListener('DOMContentLoaded', _event => {
   // Customize and transform existing functions
+  alert('hahah');
   const contentCSS = `
     #page #footer-wrapper,
     .drawing-board .toolbar .toolbar-action,
